@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+bower_components
+*.log
+.eslintcache
+package-lock.json
+
+.idea
+.vscode
+
+/build
+/coverage
+/storybook-static
+/.lila

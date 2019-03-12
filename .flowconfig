@@ -1,0 +1,12 @@
+[ignore]
+.*/node_modules
+.*/bower_components
+.*/build
+.*/coverage
+.*/storybook-static
+.*/.lila
+
+[include]
+
+[options]
+module.system.node.resolve_dirname=node_modules
