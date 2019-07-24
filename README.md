@@ -11,7 +11,7 @@ git clone https://github.com/senntyou/vue-app-starter.git --depth=1
 
 cd vue-app-starter
 
-npm install             # 安装以来
+npm install             # 安装依赖
 
 npm run storybook       # 使用 storybook 开发组件
 ```
