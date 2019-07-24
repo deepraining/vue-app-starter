@@ -112,7 +112,7 @@ npx lila analyze [entry]     # 多页面模式 (本地命令)
       - index.js             # js 入口文件
 ```
 
-每个 entry 都有一个单独的目录(目录为 src/home/about/ 如果 entry 是 home/about), 也叫做工作空间, 在这个工作空间中至少有一个 index.html 文件和一个 index.js 文件.
+每个 entry 都有一个单独的目录(目录为 `src/home/about/` 如果 entry 是 `home/about`), 也叫做工作空间, 在这个工作空间中至少有一个 `index.html` 文件和一个 `index.js` 文件.
 
 ## 自定义 webpack 配置
 
