@@ -1,7 +1,7 @@
 {
   "name": "vue-app-starter",
   "version": "0.1.0",
-  "description": "Vue App Starter - A boilerplate for creating a Vue application, using Webpack and Storybook.",
+  "description": "A boilerplate for creating a Vue application, using Webpack and Storybook.",
   "private": true,
   "author": "senntyou <jiangjinbelief@163.com>",
   "homepage": "https://github.com/senntyou/vue-app-starter",
